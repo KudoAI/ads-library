@@ -1,0 +1,13 @@
+{
+  "chatGPTapps": {
+    "active": true, "destinationURL": "https://github.com/adamlui/chatgpt-apps",
+    "adGroups": { "default": { "active": true, "ads": [{ "text": "More ChatGPT apps..." }]}}
+  },
+  "chatGPTinfinity": {
+    "active": true, "destinationURL": "https://chatgptinfinity.com",
+    "adGroups": { "default": {
+      "active": true, "destinationURL": "https://gf.chatgptinfinity.com",
+      "ads": [{ "text": "Generate endless answers from all-knowing ChatGPT!" }]
+    }}
+  }
+}
