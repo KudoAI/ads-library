@@ -36,8 +36,9 @@
         "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt",
         "ads": [{ "text": "Get GoogleGPT!" }, { "text": "Get GPT for Google..." }]
       },
-      "self": { "ads": [{
-        "text": "Leave a review", "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt/feedback#post-discussion"
-      }]}
+      "self": { "ads": [
+        { "text": "Share Feedback", "destinationURL": "https://github.com/kudoai/googlegpt/discussions/new/choose" },
+        { "text": "Leave a review", "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt/feedback#post-discussion" }
+      ]}
   }}
 }
