@@ -1,13 +1,24 @@
 {
   "chatGPTapps": {
     "active": true, "destinationURL": "https://github.com/adamlui/chatgpt-apps",
-    "adGroups": { "default": { "active": true, "ads": [{ "text": "More ChatGPT apps..." }]}}
+    "adGroups": { "default": {
+      "keywords": ["chatgpt"], "ads": [{ "text": "More ChatGPT apps..." }]
+    }}
   },
   "chatGPTinfinity": {
     "active": true, "destinationURL": "https://chatgptinfinity.com",
     "adGroups": { "default": {
-      "active": true, "destinationURL": "https://gf.chatgptinfinity.com",
+      "keywords": ["chatgpt"],
+      "destinationURL": "https://gf.chatgptinfinity.com",
       "ads": [{ "text": "Generate endless answers from all-knowing ChatGPT!" }]
+    }}
+  },
+  "duckDuckGPT": {
+    "active": true, "destinationURL": "https://duckduckgpt.com",
+    "adGroups": { "default": {
+      "keywords": ["duckduckgo", "ddg", "privacy"],
+      "destinationURL": "https://gf.duckduckgpt.com",
+      "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "GPT for DuckDuckGo..." }]
     }}
   }
 }
