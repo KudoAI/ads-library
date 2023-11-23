@@ -3,7 +3,7 @@
     "active": true, "destinationURL": "https://bravegpt.com",
     "adGroups": {
       "default": {
-        "keywords": ["brave browser", "brave search", "search", "gpt", "privacy", "chatbot"],
+        "keywords": ["brave browser", "brave search", "search", "gpt", "privacy", "chatbot", "brave leo", "brave ai"],
         "destinationURL": "https://gf.bravegpt.com",
         "ads": [{ "text": "Get BraveGPT!" }, { "text": "Get GPT for Brave..." }]
       },
