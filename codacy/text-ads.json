@@ -1,7 +1,8 @@
 {
   "searchGPT": {
     "ads": [
-      { "id": "1",
+      {
+        "id": "1",
         "text": "Get free AI-powered code quality reviews!",
         "url": "https://go.kudoai.com/codacy/range"
       },
