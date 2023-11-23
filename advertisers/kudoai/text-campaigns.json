@@ -14,11 +14,20 @@
   }}},
   "duckDuckGPT": {
     "active": true, "destinationURL": "https://duckduckgpt.com",
-    "adGroups": { "default": {
-      "keywords": ["duckduckgo", "ddg", "search", "gpt", "privacy", "chatbot"],
-      "destinationURL": "https://gf.duckduckgpt.com",
-      "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "Get GPT for DuckDuckGo..." }]
-  }}},
+    "adGroups": {
+      "default": {
+        "keywords": ["duckduckgo", "ddg", "search", "gpt", "privacy", "chatbot"],
+        "destinationURL": "https://gf.duckduckgpt.com",
+        "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "Get GPT for DuckDuckGo..." }]
+      },
+      "self": { "ads": [
+        { "text": "Share Feedback", "destinationURL": "https://github.com/kudoai/duckduckgpt/discussions/new/choose" },
+        { "text": "Leave a review", "destinationURL": "https://greasyfork.org/scripts/459849-duckduckgpt/feedback#post-discussion" },
+        { "text": "Leave a review", "destinationURL": "https://www.producthunt.com/products/duckduckgpt/reviews/new" },
+        { "text": "Leave a review", "destinationURL": "https://www.futurepedia.io/tool/duckduckgpt#duckduckgpt-review" },
+        { "text": "Leave a review", "destinationURL": "https://alternativeto.net/software/duckduckgpt/about/" }
+      ]}
+  }},
   "googleGPT": {
     "active": true, "destinationURL": "https://googlegpt.kudoai.com",
     "adGroups": {
@@ -28,8 +37,7 @@
         "ads": [{ "text": "Get GoogleGPT!" }, { "text": "Get GPT for Google..." }]
       },
       "self": { "ads": [{
-        "text": "Leave a review",
-        "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt/feedback#post-discussion"
+        "text": "Leave a review", "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt/feedback#post-discussion"
       }]}
   }}
 }
