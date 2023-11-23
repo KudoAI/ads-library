@@ -1,0 +1,13 @@
+{
+  "$200credit": {
+    "active": true, "destinationURL": "https://m.do.co/c/b440a218cfb1",
+    "adGroups": { "default": {
+      "keywords": ["free hosting", "web hosting", "webhost", "hosting"],
+      "ads": [
+        { "text": "Get $200 worth of hosting free!" },
+        { "text": "Get $200 hosting free w/ DigitalOcean!" },
+        { "text": "Get $200 in free hosting!" },
+        { "text": "Claim your $200 hosting credit today!" }
+    ]}}
+  }
+}
