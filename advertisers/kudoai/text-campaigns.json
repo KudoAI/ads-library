@@ -1,4 +1,11 @@
 {
+  "braveGPT": {
+    "active": true, "destinationURL": "https://bravegpt.com",
+    "adGroups": { "default": {
+      "keywords": ["brave browser", "brave search", "privacy"],
+      "destinationURL": "https://gf.bravegpt.com",
+      "ads": [{ "text": "Get BraveGPT!" }, { "text": "Get GPT for Brave..." }]
+  }}},
   "duckDuckGPT": {
     "active": true, "destinationURL": "https://duckduckgpt.com",
     "adGroups": { "default": {
