@@ -12,13 +12,5 @@
       "destinationURL": "https://gf.chatgptinfinity.com",
       "ads": [{ "text": "Generate endless answers from all-knowing ChatGPT!" }]
     }}
-  },
-  "duckDuckGPT": {
-    "active": true, "destinationURL": "https://duckduckgpt.com",
-    "adGroups": { "default": {
-      "keywords": ["duckduckgo", "ddg", "privacy"],
-      "destinationURL": "https://gf.duckduckgpt.com",
-      "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "GPT for DuckDuckGo..." }]
-    }}
   }
 }
