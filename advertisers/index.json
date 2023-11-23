@@ -1,6 +1,6 @@
 {
-  "adam-lui": { "campaigns": { "text": true, "display": false }},
-  "codacy": { "campaigns": { "text": true, "display": false }},
-  "kudoai": { "campaigns": { "text": false, "display": false }},
-  "reclaim.ai": { "campaigns": { "text": true, "display": false }}
+  "adam-lui": { "campaigns": { "text": true }},
+  "codacy": { "campaigns": { "text": true }},
+  "kudoai": { "campaigns": { "text": true }},
+  "reclaim.ai": { "campaigns": { "text": true }}
 }
