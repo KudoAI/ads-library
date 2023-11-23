@@ -18,7 +18,7 @@
   "chatgpt.js": {
     "active": true, "destinationURL": "https://chatgpt.js.org",
     "adGroups": { "default": {
-      "keywords": ["javascript", "chatgpt", "ai library", "chatgpt library"],
+      "keywords": ["javascript", "js", "chatgpt", "ai library", "chatgpt library"],
       "ads": [{ "text": "Powered by chatgpt.js" }]
   }}},
   "duckDuckGPT": {
