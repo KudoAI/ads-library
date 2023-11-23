@@ -1,4 +1,4 @@
-module.exports  = {
+module.exports = {
     'extends': ['eslint:recommended'],
     'ignorePatterns': ['**/*.md', '**/*.min.js'],
     'rules': {
@@ -10,5 +10,6 @@ module.exports  = {
         'no-constant-condition': 'off', // allow constant conditions
         'no-empty': 'off', // allow empty blocks
         'no-useless-escape': 'off' // allow all escape chars cause ESLint sucks at detecting truly useless ones
-    }
+    },
+    'env': { 'node': true }
 };
