@@ -21,9 +21,15 @@
   }}},
   "googleGPT": {
     "active": true, "destinationURL": "https://googlegpt.kudoai.com",
-    "adGroups": { "default": {
-      "keywords": ["google", "search", "gpt", "chatbot"],
-      "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt",
-      "ads": [{ "text": "Get GoogleGPT!" }, { "text": "Get GPT for Google..." }]
-  }}}
+    "adGroups": {
+      "default": {
+        "keywords": ["google", "search", "gpt", "chatbot"],
+        "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt",
+        "ads": [{ "text": "Get GoogleGPT!" }, { "text": "Get GPT for Google..." }]
+      },
+      "self": { "ads": [{
+        "text": "Leave a review",
+        "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt/feedback#post-discussion"
+      }]}
+  }}
 }
