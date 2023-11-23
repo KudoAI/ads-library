@@ -2,21 +2,27 @@
   "braveGPT": {
     "active": true, "destinationURL": "https://bravegpt.com",
     "adGroups": { "default": {
-      "keywords": ["brave browser", "brave search", "search", "gpt", "privacy"],
+      "keywords": ["brave browser", "brave search", "search", "gpt", "privacy", "chatbot"],
       "destinationURL": "https://gf.bravegpt.com",
       "ads": [{ "text": "Get BraveGPT!" }, { "text": "Get GPT for Brave..." }]
+  }}},
+  "chatgpt.js": {
+    "active": true, "destinationURL": "https://chatgpt.js.org",
+    "adGroups": { "default": {
+      "keywords": ["javascript", "chatgpt", "ai library", "chatgpt library"],
+      "ads": [{ "text": "Powered by chatgpt.js" }]
   }}},
   "duckDuckGPT": {
     "active": true, "destinationURL": "https://duckduckgpt.com",
     "adGroups": { "default": {
-      "keywords": ["duckduckgo", "ddg", "search", "gpt", "privacy"],
+      "keywords": ["duckduckgo", "ddg", "search", "gpt", "privacy", "chatbot"],
       "destinationURL": "https://gf.duckduckgpt.com",
       "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "Get GPT for DuckDuckGo..." }]
   }}},
   "googleGPT": {
     "active": true, "destinationURL": "https://googlegpt.kudoai.com",
     "adGroups": { "default": {
-      "keywords": ["google", "search", "gpt"],
+      "keywords": ["google", "search", "gpt", "chatbot"],
       "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt",
       "ads": [{ "text": "Get GoogleGPT!" }, { "text": "Get GPT for Google..." }]
   }}}
