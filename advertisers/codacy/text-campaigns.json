@@ -1,7 +1,7 @@
 {
-  "ai": {
+  "main": {
     "active": true, "destinationURL": "https://go.kudoai.com/codacy/compare",
-    "adGroups": { "default": {
+    "adGroups": { "ai": {
       "keywords": ["code quality", "ai review", "code review"],
       "ads": [
         { "text": "Get free AI-powered code quality reviews!" },
