@@ -1,11 +1,20 @@
 {
   "braveGPT": {
     "active": true, "destinationURL": "https://bravegpt.com",
-    "adGroups": { "default": {
-      "keywords": ["brave browser", "brave search", "search", "gpt", "privacy", "chatbot"],
-      "destinationURL": "https://gf.bravegpt.com",
-      "ads": [{ "text": "Get BraveGPT!" }, { "text": "Get GPT for Brave..." }]
-  }}},
+    "adGroups": {
+      "default": {
+        "keywords": ["brave browser", "brave search", "search", "gpt", "privacy", "chatbot"],
+        "destinationURL": "https://gf.bravegpt.com",
+        "ads": [{ "text": "Get BraveGPT!" }, { "text": "Get GPT for Brave..." }]
+      },
+      "self": { "ads": [
+        { "text": "Share Feedback", "destinationURL": "https://github.com/kudoai/bravegpt/discussions/new/choose" },
+        { "text": "Leave a review", "destinationURL": "https://greasyfork.org/en/scripts/462440-bravegpt/feedback#post-discussion" },
+        { "text": "Leave a review", "destinationURL": "https://www.producthunt.com/products/bravegpt/reviews/new" },
+        { "text": "Leave a review", "destinationURL": "https://www.futurepedia.io/tool/bravegpt#bravegpt-review" },
+        { "text": "Leave a review", "destinationURL": "https://alternativeto.net/software/bravegpt/about/" }
+      ]}
+  }},
   "chatgpt.js": {
     "active": true, "destinationURL": "https://chatgpt.js.org",
     "adGroups": { "default": {
