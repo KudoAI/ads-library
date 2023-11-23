@@ -1,6 +1,6 @@
 {
   "searchGPT": {
-    "active": true, "destinationURL": "https://go.kudoai.com/codacy/range",
+    "active": true, "destinationURL": "https://go.kudoai.com/codacy/compare",
     "ads": [
       { "id": "1", "text": "Get free AI-powered code quality reviews!" },
       { "id": "2", "text": "Boost your code quality w/ AI!" },
