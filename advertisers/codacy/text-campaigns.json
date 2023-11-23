@@ -1,29 +1,31 @@
 {
-  "searchGPT": {
+  "ai": {
     "active": true, "destinationURL": "https://go.kudoai.com/codacy/compare",
-    "adGroups": {
-      "ai": {
-        "keywords": ["code quality", "ai review", "code review"],
-        "ads": [
-          { "text": "Get free AI-powered code quality reviews!" },
-          { "text": "Boost your code quality w/ AI!" },
-          { "text": "Unleash AI on your code!" },
-          { "text": "Free AI review w/ Codacy" }
-      ]},
-      "quality": {
-        "keywords": ["code quality", "code review"],
-        "destinationURL": "https://www.codacy.com/quality?utm_source=kudoai",
-        "ads": [{ "text": "Take code reviews from hours to minutes w/ Codacy" }]
-      },
-      "pulse": {
-        "keywords": ["code insights", "dora metrics"],
-        "destinationURL": "https://www.codacy.com/pulse?utm_source=kudoai",
-        "ads": [{ "text": "Data-driven insights for higher quality code w/ Codacy" }]
-      },
-      "coverage": {
-        "keywords": ["code coverage", "test coverage"],
-        "destinationURL": "https://www.codacy.com/coverage?utm_source=kudoai",
-        "ads": [{ "text": "Monitor, maintain, and improve test coverage w/ Codacy" }]
-      }
-  }}
+    "adGroups": { "default": {
+      "keywords": ["code quality", "ai review", "code review"],
+      "ads": [
+        { "text": "Get free AI-powered code quality reviews!" },
+        { "text": "Boost your code quality w/ AI!" },
+        { "text": "Unleash AI on your code!" },
+        { "text": "Free AI review w/ Codacy" }
+    ]}}
+  },
+  "quality": {
+    "active": true, "destinationURL": "https://www.codacy.com/quality?utm_source=kudoai",
+    "adGroups": { "default": {
+      "keywords": ["code quality", "code review"],    
+      "ads": [{ "text": "Take code reviews from hours to minutes w/ Codacy" }]
+  }}},
+  "pulse": {
+    "active": true, "destinationURL": "https://www.codacy.com/pulse?utm_source=kudoai",
+    "adGroups": { "default": {
+      "keywords": ["code insights", "dora metrics"],    
+      "ads": [{ "text": "Data-driven insights for higher quality code w/ Codacy" }]
+  }}},
+  "coverage": {
+    "active": true, "destinationURL": "https://www.codacy.com/coverage?utm_source=kudoai",
+    "adGroups": { "default": {
+      "keywords": ["code coverage", "test coverage"],    
+      "ads": [{ "text": "Monitor, maintain, and improve test coverage w/ Codacy" }]
+  }}}
 }
