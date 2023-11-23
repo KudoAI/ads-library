@@ -2,15 +2,22 @@
   "braveGPT": {
     "active": true, "destinationURL": "https://bravegpt.com",
     "adGroups": { "default": {
-      "keywords": ["brave browser", "brave search", "privacy"],
+      "keywords": ["brave browser", "brave search", "search", "gpt", "privacy"],
       "destinationURL": "https://gf.bravegpt.com",
       "ads": [{ "text": "Get BraveGPT!" }, { "text": "Get GPT for Brave..." }]
   }}},
   "duckDuckGPT": {
     "active": true, "destinationURL": "https://duckduckgpt.com",
     "adGroups": { "default": {
-      "keywords": ["duckduckgo", "ddg", "privacy"],
+      "keywords": ["duckduckgo", "ddg", "search", "gpt", "privacy"],
       "destinationURL": "https://gf.duckduckgpt.com",
       "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "Get GPT for DuckDuckGo..." }]
+  }}},
+  "googleGPT": {
+    "active": true, "destinationURL": "https://googlegpt.kudoai.com",
+    "adGroups": { "default": {
+      "keywords": ["google", "search", "gpt"],
+      "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt",
+      "ads": [{ "text": "Get GoogleGPT!" }, { "text": "Get GPT for Google..." }]
   }}}
 }
