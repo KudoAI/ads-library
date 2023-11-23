@@ -4,6 +4,6 @@
     "adGroups": { "default": {
       "keywords": ["duckduckgo", "ddg", "privacy"],
       "destinationURL": "https://gf.duckduckgpt.com",
-      "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "GPT for DuckDuckGo..." }]
+      "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "Get GPT for DuckDuckGo..." }]
   }}}
 }
