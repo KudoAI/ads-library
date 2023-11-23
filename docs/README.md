@@ -1,3 +1,3 @@
 # KudoAI / ads-library
 
-To advertise w/ KudoAI, email ads@kudoai.com
+To advertise to KudoAI's app users, email ads@kudoai.com
