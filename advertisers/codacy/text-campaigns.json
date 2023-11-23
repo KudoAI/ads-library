@@ -2,7 +2,7 @@
   "searchGPT": {
     "active": true, "destinationURL": "https://go.kudoai.com/codacy/compare",
     "adGroups": { "default": {
-      "keywords": ["code quality", "ai review", "code review"]
+      "keywords": ["code quality", "ai review", "code review"],
       "ads": [
         { "text": "Get free AI-powered code quality reviews!" },
         { "text": "Boost your code quality w/ AI!" },
