@@ -1,0 +1,10 @@
+{
+  "searchGPT": {
+    "ads": [
+      { "id": "1",
+        "text": "More ChatGPT apps",
+        "url": "https://github.com/adamlui/chatgpt-apps"
+      }
+    ]
+  }
+}
