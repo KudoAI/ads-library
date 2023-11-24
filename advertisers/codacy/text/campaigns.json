@@ -4,28 +4,28 @@
     "adGroups": { "ai": {
       "keywords": ["code quality", "ai review", "code review"],
       "ads": [
-        { "text": "Get free AI-powered code quality reviews!" },
-        { "text": "Boost your code quality w/ AI!" },
-        { "text": "Unleash AI on your code!" },
-        { "text": "Free AI review w/ Codacy" }
+        { "text": "Get free AI-powered code quality reviews!", "tooltip": "Get started" },
+        { "text": "Boost your code quality w/ AI!", "tooltip": "Get started" },
+        { "text": "Unleash AI on your code!", "tooltip": "Get started" },
+        { "text": "Free AI review w/ Codacy", "tooltip": "Review now" }
     ]}}
   },
   "quality": {
     "active": true, "destinationURL": "https://www.codacy.com/quality?utm_source=kudoai",
     "adGroups": { "default": {
       "keywords": ["code quality", "code review"],    
-      "ads": [{ "text": "Take code reviews from hours to minutes w/ Codacy" }]
+      "ads": [{ "text": "Take code reviews from hours to minutes w/ Codacy", "tooltip": "Try Codacy Quality" }]
   }}},
   "pulse": {
     "active": true, "destinationURL": "https://www.codacy.com/pulse?utm_source=kudoai",
     "adGroups": { "default": {
       "keywords": ["code insights", "dora metrics"],    
-      "ads": [{ "text": "Data-driven insights for higher quality code w/ Codacy" }]
+      "ads": [{ "text": "Data-driven insights for higher quality code w/ Codacy", "tooltip": "Try Codacy Pulse" }]
   }}},
   "coverage": {
     "active": true, "destinationURL": "https://www.codacy.com/coverage?utm_source=kudoai",
     "adGroups": { "default": {
       "keywords": ["code coverage", "test coverage"],    
-      "ads": [{ "text": "Monitor, maintain, and improve test coverage w/ Codacy" }]
+      "ads": [{ "text": "Monitor, maintain, and improve test coverage w/ Codacy", "tooltip": "Try Codacy Coverage" }]
   }}}
 }
