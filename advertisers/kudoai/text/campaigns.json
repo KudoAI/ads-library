@@ -1,4 +1,12 @@
 {
+  "advertise": {
+    "active": true, "destinationURL": "mailto:ads@kudoai.com",
+    "adGroups": { "default": {
+      "ads": [
+        { "text": "Your ad here" }, { "text": "Show your ad here" }, { "text": "Display your ad here" },
+        { "text": "Promote your app here!" }, { "text": "Show your link here!" }, { "text": "Put your text here!" }
+      ]
+  }}},
   "braveGPT": {
     "active": true, "destinationURL": "https://bravegpt.com",
     "adGroups": {
