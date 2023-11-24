@@ -9,6 +9,6 @@
     "adGroups": { "default": {
       "keywords": ["chatgpt"],
       "destinationURL": "https://gf.chatgptinfinity.com",
-      "ads": [{ "text": "Generate endless answers from all-knowing ChatGPT!" }]
+      "ads": [{ "text": "Generate endless answers from all-knowing ChatGPT!", "tooltip": "Learn more" }]
   }}}
 }
