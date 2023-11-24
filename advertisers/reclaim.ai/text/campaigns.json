@@ -4,7 +4,7 @@
     "adGroups": { "default": {
       "keywords": ["ai", "scheduling", "calendar", "google", "google calendar", "ai scheduling", "ai calendar"],
       "ads": [
-        { "text": "Smart AI scheduling for busy teams" },
-        { "text": "Free AI scheduling automation app" }
+        { "text": "Smart AI scheduling for busy teams", "tooltip": "Reclaim.ai" },
+        { "text": "Free AI scheduling automation app", "tooltip": "Reclaim.ai" }
   ]}}}
 }
