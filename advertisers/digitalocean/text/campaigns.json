@@ -4,10 +4,10 @@
     "adGroups": { "default": {
       "keywords": ["free hosting", "web hosting", "webhost", "hosting"],
       "ads": [
-        { "text": "Get $200 worth of hosting free!", "tooltip": "Get coupon" },
-        { "text": "Get $200 hosting free w/ DigitalOcean!", "tooltip": "Get coupon" },
-        { "text": "Get $200 in free hosting!", "tooltip": "Get coupon" },
-        { "text": "Claim your $200 hosting credit today!", "tooltip": "Get coupon" }
+        { "text": "Get $200 worth of hosting free!", "tooltip": "Get coupon free" },
+        { "text": "Get $200 hosting free w/ DigitalOcean!", "tooltip": "Get free coupon" },
+        { "text": "Get $200 in free hosting!", "tooltip": "Get coupon free" },
+        { "text": "Claim your $200 hosting credit today!", "tooltip": "Get free coupon" }
     ]}}
   }
 }
