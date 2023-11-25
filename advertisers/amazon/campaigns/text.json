@@ -1,0 +1,44 @@
+{
+  "cyberMonday": {
+    "active": true, "endDate": "20231128",
+    "adGroups": {
+      "main": {
+        "targetLocations": ["us"], "destinationURL": "https://go.kudoai.com/amazon/cybermonday",
+        "keywords": ["cyber monday", "amazon deals", "cyber monday deals", "black friday", "amazon coupon"],
+        "ads": [
+          { "text": "Cyber Monday is here on Amazon!", "tooltip": "Browse deals" },
+          { "text": "Amazon's Cyber Monday 2023 Deals", "tooltip": "Browse deals" },
+          { "text": "Amazon's 2023 Cyber Monday Deals", "tooltip": "Browse deals" },
+          { "text": "Amazon's Cyber Monday deals under $25", "tooltip": "Browse deals" },
+          { "text": "Amazon's Cyber Monday deals up to 69% off! 🤯", "tooltip": "Browse deals" },
+          { "text": "🏷️ Amazon Cyber Monday Deals", "tooltip": "Browse deals" },
+          { "text": "🏷️ Cyber Monday deals on Amazon", "tooltip": "Browse deals" }
+        ]
+      },
+      "electronicsUS": {
+        "targetLocations": ["us"],
+        "keywords": ["cyber monday", "amazon deals", "laptops", "tablets", "cheap laptops", "cheap tablets"],
+        "ads": [
+          { "text": "12GB Intel 4X-core laptop for $129 Cyber Monday deal!",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/tulasi" },
+          { "text": "CYBER MONDAY: $129 Intel quadcore 12GB laptop",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/tulasi" },
+          { "text": "HP Intel i3 laptop $399 Cyber Monday deal!",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/hp" },
+          { "text": "CYBER MONDAY: $399 HP Intel i3 laptop",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/hp" },
+          { "text": "ASUS 16\" laptop i5 $424 Cyber Monday deal!",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/asus/i5" },
+          { "text": "CYBER MONDAY: $424 Intel i5 laptop from ASUS",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/asus/i5" },
+          { "text": "ASUS Chromebook $149 🤯 Cyber Monday deal!",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/asus/chromebook" },
+          { "text": "CYBER MONDAY: $149 Chromebook! 🤯",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/asus/chromebook" },
+          { "text": "Samsung Galaxy Tab 39% off for $139 🤯 Cyber Monday deal!",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/samsung" },
+          { "text": "CYBER MONDAY: $139 Galaxy Tab (39% off!) 🤯",
+            "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/samsung" }
+        ]
+  }}}
+}
