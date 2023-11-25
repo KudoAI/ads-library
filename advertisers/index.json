@@ -1,5 +1,6 @@
 {
   "adamlui": { "campaigns": { "text": true }},
+  "amazon": { "campaigns": { "text": true }},
   "codacy": { "campaigns": { "text": true }},
   "digitalocean": { "campaigns": { "text": true }},
   "kudoai": { "campaigns": { "text": true }},
