@@ -21,7 +21,7 @@
         "ads": [
           { "text": "12GB Intel 4X-core laptop for $129 Cyber Monday deal!",
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/tulasi" },
-          { "text": "CYBER MONDAY: $129 Intel quadcore 12GB laptop",
+          { "text": "CYBER MONDAY — $129 Intel quadcore 12GB laptop",
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/tulasi" },
           { "text": "HP Intel i3 laptop $399 Cyber Monday deal!",
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/hp" },
@@ -29,15 +29,15 @@
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/hp" },
           { "text": "ASUS 16\" laptop i5 $424 Cyber Monday deal!",
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/asus/i5" },
-          { "text": "CYBER MONDAY: $424 Intel i5 laptop from ASUS",
+          { "text": "CYBER MONDAY — $424 Intel i5 laptop from ASUS",
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/asus/i5" },
           { "text": "ASUS Chromebook $149 🤯 Cyber Monday deal!",
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/asus/chromebook" },
-          { "text": "CYBER MONDAY: $149 Chromebook! 🤯",
+          { "text": "CYBER MONDAY — $149 Chromebook! 🤯",
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/asus/chromebook" },
           { "text": "Samsung Galaxy Tab 39% off for $139 🤯 Cyber Monday deal!",
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/samsung" },
-          { "text": "CYBER MONDAY: $139 Galaxy Tab (39% off!) 🤯",
+          { "text": "CYBER MONDAY — $139 Galaxy Tab (39% off!) 🤯",
             "tooltip": "Claim deal", "destinationURL": "https://go.kudoai.com/amazon/cybermonday/samsung" }
         ]
   }}}
