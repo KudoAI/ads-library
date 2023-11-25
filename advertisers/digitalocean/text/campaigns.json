@@ -1,7 +1,7 @@
 {
   "$200credit": {
     "active": true, "destinationURL": "https://m.do.co/c/b440a218cfb1",
-    "adGroups": { "default": {
+    "adGroups": { "main": {
       "keywords": ["free hosting", "web hosting", "webhost", "hosting"],
       "ads": [
         { "text": "Get $200 worth of hosting free!", "tooltip": "Get coupon free" },

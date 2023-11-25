@@ -12,19 +12,19 @@
   },
   "quality": {
     "active": true, "destinationURL": "https://www.codacy.com/quality?utm_source=kudoai",
-    "adGroups": { "default": {
+    "adGroups": { "main": {
       "keywords": ["code quality", "code review"],    
       "ads": [{ "text": "Take code reviews from hours to minutes w/ Codacy", "tooltip": "Try Codacy Quality" }]
   }}},
   "pulse": {
     "active": true, "destinationURL": "https://www.codacy.com/pulse?utm_source=kudoai",
-    "adGroups": { "default": {
+    "adGroups": { "main": {
       "keywords": ["code insights", "dora metrics"],    
       "ads": [{ "text": "Data-driven insights for higher quality code w/ Codacy", "tooltip": "Try Codacy Pulse" }]
   }}},
   "coverage": {
     "active": true, "destinationURL": "https://www.codacy.com/coverage?utm_source=kudoai",
-    "adGroups": { "default": {
+    "adGroups": { "main": {
       "keywords": ["code coverage", "test coverage"],    
       "ads": [{ "text": "Monitor, maintain, and improve test coverage w/ Codacy", "tooltip": "Try Codacy Coverage" }]
   }}}
