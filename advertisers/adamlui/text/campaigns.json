@@ -1,19 +1,19 @@
 {
   "chatGPTapps": {
     "active": true, "destinationURL": "https://github.com/adamlui/chatgpt-apps",
-    "adGroups": { "main": {
+    "adGroups": { "default": {
       "keywords": ["chatgpt"], "ads": [{ "text": "More ChatGPT apps..." }]
   }}},
   "chatGPTinfinity": {
     "active": true, "destinationURL": "https://chatgptinfinity.com",
-    "adGroups": { "main": {
+    "adGroups": { "default": {
       "keywords": ["chatgpt"],
       "destinationURL": "https://gf.chatgptinfinity.com",
       "ads": [{ "text": "Generate endless answers from all-knowing ChatGPT!", "tooltip": "Learn more" }]
   }}},
   "elonSucks": {
     "active": true, "destinationURL": "https://why.elonsucks.org",
-    "adGroups": { "main": {
+    "adGroups": { "default": {
       "keywords": ["elon musk", "elon", "musk", "tesla", "spacex", "neuralink", "x", "twitter", "billionaire"],
       "ads": [{ "text": "Why Elon Musk sucks..." }, { "text": "Why Elon sucks..." }]
   }}}

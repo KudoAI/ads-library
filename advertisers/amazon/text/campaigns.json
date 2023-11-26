@@ -2,7 +2,7 @@
   "cyberMonday": {
     "active": true, "endDate": "20231128",
     "adGroups": {
-      "main": {
+      "default": {
         "targetLocations": ["us"], "destinationURL": "https://go.kudoai.com/amazon/cybermonday",
         "keywords": ["cyber monday", "amazon deals", "cyber monday deals", "black friday", "amazon coupon"],
         "ads": [
