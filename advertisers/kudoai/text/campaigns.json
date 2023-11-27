@@ -56,5 +56,41 @@
         { "text": "Share Feedback", "destinationURL": "https://github.com/kudoai/googlegpt/discussions/new/choose" },
         { "text": "Leave a review", "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt/feedback#post-discussion" }
       ]}
+  }},
+  "quotes": {
+    "active": true, "boost": 50, "destinationURL": "mailto:ads@kudoai.com",
+    "adGroups": {
+      "wisdom": { "ads": [
+        { "text": "It's always darkest before the dawn." }, { "text": "Sucess is not final, failure is not fatal." },
+        { "text": "If it matters to you, you'll find a way." }, { "text": "When nothing goes right, go left." },
+        { "text": "Every day is a gift, that’s why they call it the present." },
+        { "text": "Always follow your heart, but remember to bring your brain along." },
+        { "text": "Be yourself; everyone else is already taken." },
+        { "text": "When life closes a door, just open it again. It’s a door, that’s how they work." },
+        { "text": "A mind is like a parachute. It doesn’t work if it is not open." }
+      ]},
+      "humor": { "ads": [
+        { "text": "Do robots dream of electric sheep?" }, { "text": "Friends buy you food. Best friends eat your food." },
+        { "text": "A papercut is a tree's final moment of revenge." }, { "text": "When nothing goes right, go left." },
+        { "text": "I am on a seafood diet. I see food, and I eat it." }, { "text": "Never ask a starfish for directions." },
+        { "text": "Doing nothing is hard, you never know when you’re done." }, { "text": "Never judge a book by its movie." },
+        { "text": "I’m not weird, I’m just limited edition." }, { "text": "He who wakes up early, yawns all day long." },
+        { "text": "Sometimes when I close my eyes, I can’t see." }, { "text": "Life is always rocky when you’re a gem." },
+        { "text": "How do you count cows? With a cowculator." }, { "text": "How do astronomers organize a party? They planet." },
+        { "text": "Never test how deep the water is with both feet." }, { "text": "Pampered cows produce spoiled milk." },
+        { "text": "Never go to a doctor whose office plants have died." }, { "text": "Learn sign language, it’s very handy." },
+        { "text": "The only relationship I have is with my Wifi. We have a connection." },
+        { "text": "Why do they call it beauty sleep when you wake up looking terrible?" },
+        { "text": "Everybody wants to go to heaven, but nobody wants to die." },
+        { "text": "Why is Monday so far from Friday, and Friday so close to Monday?" },
+        { "text": "Yes, officer, I saw the speed limit, I just didn’t see your car." },
+        { "text": "Never take life seriously. Nobody gets out alive anyway." },
+        { "text": "With great power comes an even greater electricity bill." },
+        { "text": "I love my computer because all my friends live inside it." },
+        { "text": "After Monday and Tuesday, even the calendar says W T F." },
+        { "text": "If you want to catch a squirrel just climb a tree and act like a nut." },
+        { "text": "Why is the man who invests all your money called a broker?" },
+        { "text": "What do computers eat for a snack? Microchips." }
+      ]}
   }}
 }
