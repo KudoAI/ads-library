@@ -58,7 +58,7 @@
       ]}
   }},
   "quotes": {
-    "active": true, "boost": 50, "destinationURL": "mailto:ads@kudoai.com",
+    "boost": 50, "active": true, "destinationURL": "mailto:ads@kudoai.com",
     "adGroups": {
       "wisdom": { "ads": [
         { "text": "It's always darkest before the dawn." }, { "text": "Sucess is not final, failure is not fatal." },
