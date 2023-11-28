@@ -1,6 +1,6 @@
 {
   "cyberMonday": {
-    "active": true, "endDate": "20231128",
+    "active": false, "endDate": "20231128",
     "adGroups": {
       "default": {
         "targetLocations": ["us"], "destinationURL": "https://go.kudoai.com/amazon/cybermonday",
