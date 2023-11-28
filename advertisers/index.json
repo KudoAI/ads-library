@@ -1,8 +1,8 @@
 {
   "adamlui": { "campaigns": { "text": true }},
-  "amazon": { "boost": 50, "campaigns": { "text": true }},
+  "amazon": { "campaigns": { "text": false }},
   "codacy": { "campaigns": { "text": true }},
   "digitalocean": { "campaigns": { "text": true }},
-  "kudoai": { "campaigns": { "text": true }},
+  "kudoai": { "boost": 50, "campaigns": { "text": true }},
   "reclaim.ai": { "campaigns": { "text": true }}
 }
