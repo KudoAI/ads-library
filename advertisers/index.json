@@ -4,6 +4,6 @@
   "amazon": { "campaigns": { "text": false }},
   "codacy": { "campaigns": { "text": true }},
   "digitalocean": { "campaigns": { "text": true }},
-  "kudoai": { "boost": 50, "campaigns": { "text": true }},
+  "kudoai": { "boost": 75, "campaigns": { "text": true }},
   "reclaim.ai": { "campaigns": { "text": true }}
 }
