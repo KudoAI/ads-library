@@ -61,7 +61,7 @@
     "boost": 75, "active": true, "destinationURL": "mailto:ads@kudoai.com",
     "adGroups": {
       "wisdom": { "ads": [
-        { "text": "It's always darkest before the dawn." }, { "text": "Sucess is not final, failure is not fatal." },
+        { "text": "It's always darkest before the dawn." }, { "text": "Success is not final, failure is not fatal." },
         { "text": "If it matters to you, you'll find a way." }, { "text": "When nothing goes right, go left." },
         { "text": "Every day is a gift, that’s why they call it the present." },
         { "text": "Always follow your heart, but remember to bring your brain along." },
