@@ -16,5 +16,11 @@
     "adGroups": { "default": {
       "keywords": ["elon musk", "elon", "musk", "tesla", "spacex", "neuralink", "x", "twitter", "billionaire"],
       "ads": [{ "text": "Why Elon Musk sucks..." }, { "text": "Why Elon sucks..." }]
+  }}},
+  "userscripts": {
+    "active": true, "destinationURL": "https://github.com/adamlui/userscripts",
+    "adGroups": { "default": {
+      "keywords": ["userscripts", "greasemonkey", "tampermonkey", "violentmonkey", "greasy fork"],
+      "ads": [{ "text": "More userscripts..." }]
   }}}
 }
