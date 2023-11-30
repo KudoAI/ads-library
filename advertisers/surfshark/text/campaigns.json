@@ -1,0 +1,42 @@
+{
+  "antivirus": {
+    "active": true, "destinationURL": "https://go.kudoai.com/surfshark/av",
+    "adGroups": { "default": {
+      "keywords": ["antivirus", "av", "virus protection", "malware protection", "security", "cybersecurity"],
+      "ads": [
+        { "text": "Surfshark - Antivirus made convenient" },
+        { "text": "Get Surfshark Antivirus 83% off + 4 mo. FREE" },
+        { "text": "Surfshark Antivirus for $3.07/mo" },
+        { "text": "Surfshark AV protection for $3.07/mo" }
+    ]}}
+  },
+  "incogni": {
+    "active": true, "destinationURL": "https://go.kudoai.com/surfshark/incogni",
+    "adGroups": { "default": {
+      "keywords": ["vpn", "privacy", "proxy"],
+      "ads": [
+        { "text": "Get Surfshark Incogni for 55% off!", "tooltip": "Claim deal" },
+        { "text": "Get Surfshark Incogni for only $6.49/mo!", "tooltip": "Claim deal" },
+        { "text": "Reduce spam calls + emails w/ Surfshark Incogni" },
+        { "text": "Reduce spam calls + emails w/ 55% off Surfshark Incogni", "tooltip": "Claim deal" },
+        { "text": "Reduce spam calls + emails for only $6.49/mo!" },
+        { "text": "Remove your private info from the Internet!" },
+        { "text": "Remove your private info from the Internet w/ 55% off Surfshark Incogni", "tooltip": "Claim deal" },
+        { "text": "Remove your private info from the Internet for only $6.49/mo!" },
+        { "text": "Bulk opt-out from data brokers who sell your info!" },
+        { "text": "Bulk opt-out from data brokers who sell your info w/ 55% off Surfshark Incogni", "tooltip": "Claim deal" },
+        { "text": "Bulk opt-out from data brokers who sell your info for only $6.49/mo!" }
+    ]}}
+  },
+  "vpn": {
+    "active": true, "destinationURL": "https://go.kudoai.com/surfshark/vpn",
+    "adGroups": { "default": {
+      "keywords": ["vpn", "privacy", "proxy"],
+      "ads": [
+        { "text": "Surfshark VPN - #1 Secure VPN" },
+        { "text": "Surfshark VPN - Elevate your online security" },
+        { "text": "Surfshark VPN - 80% OFF + up to 5 mo. FREE" },
+        { "text": "Surfshark VPN - 5 months FREE" }
+    ]}}
+  }
+}
