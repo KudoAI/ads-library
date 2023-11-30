@@ -13,7 +13,7 @@
   "incogni": {
     "active": true, "destinationURL": "https://go.kudoai.com/surfshark/incogni",
     "adGroups": { "default": {
-      "keywords": ["vpn", "privacy", "proxy"],
+      "keywords": ["privacy", "bulk opt out", "mass opt out", "do not call", "do not email"],
       "ads": [
         { "text": "Get Surfshark Incogni for 55% off!", "tooltip": "Claim deal" },
         { "text": "Get Surfshark Incogni for only $6.49/mo!", "tooltip": "Claim deal" },
