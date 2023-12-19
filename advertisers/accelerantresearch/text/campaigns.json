@@ -1,6 +1,6 @@
 {
   "23-082": {
-    "active": true, "destinationURL": "https://surveys.accelerantresearch.com/s3/d7cf2168f589/i-9X8Ml9clDvQLf2e6JV-6613499/?sguid=9X8Ml9clDvQLf2e6JV",
+    "active": false, "destinationURL": "https://surveys.accelerantresearch.com/s3/d7cf2168f589/i-9X8Ml9clDvQLf2e6JV-6613499/?sguid=9X8Ml9clDvQLf2e6JV",
     "adGroups": { "default": { "ads": [
         { "text": "$250 research study for NY/LA area", "tooltip": "Take screener" },
         { "text": "$250 focus group for NY/LA area", "tooltip": "Take screener" },
