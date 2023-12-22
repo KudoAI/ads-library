@@ -6,6 +6,7 @@
   "digitalocean": { "campaigns": { "text": true }},
   "expressvpn": { "campaigns": { "text": true }},
   "kudoai": { "boost": 54, "campaigns": { "text": true }},
+  "proton": { "campaigns": { "text": true }},
   "reclaim.ai": { "campaigns": { "text": true }},
   "surfshark": { "campaigns": { "text": true }}
 }
