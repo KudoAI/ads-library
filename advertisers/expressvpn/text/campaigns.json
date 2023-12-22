@@ -1,6 +1,12 @@
 {
   "main": { "active": true,
     "adGroups": {
+      "android": { "targetOSes": ["android"], "keywords": ["vpn", "android vpn"],
+        "destinationURL": "https://go.expressvpn.com/c/5024278/1462863/16063",
+        "ads": [
+          { "text": "Get the #1 VPN for Android" },
+          { "text": "Get the #1 VPN for Android - 49% OFF", "tooltip": "Claim deal" }
+      ]},
       "anime": { "keywords": ["vpn", "anime"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1817629/16063",
         "ads": [
