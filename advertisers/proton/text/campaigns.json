@@ -1,5 +1,5 @@
 {
-  "mail": { "active": true, "destinationURL": "https://go.getproton.me/SHpe",
+  "mail": { "boost": 50, "active": true, "destinationURL": "https://go.getproton.me/SHpe",
     "adGroups": { "default": { "keywords": ["secure mail", "secure email", "private mail", "private email", "gmail alternatives"],    
       "ads": [
         { "text": "Secure email that protects your privacy", "tooltip": "Proton Mail" },
