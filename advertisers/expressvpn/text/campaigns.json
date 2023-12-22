@@ -41,7 +41,7 @@
           { "text": "Get the best VPN extension for Firefox" },
           { "text": "Best Firefox VPN add-on" }
       ]},
-      "hideIP": { "keywords": ["vpn", "hide my ip", "anonymize ip", "hide ip"],
+      "hideIP": { "keywords": ["vpn", "hide ip", "hide my ip", "anonymize ip", "ip privacy"],   
         "destinationURL": "https://go.expressvpn.com/c/5024278/1481166/16063",
         "ads": [
           { "text": "Hide your IP address" },
