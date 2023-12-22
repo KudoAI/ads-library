@@ -1,0 +1,76 @@
+{
+  "mail": { "active": true, "destinationURL": "https://go.getproton.me/SHpe",
+    "adGroups": { "default": { "keywords": ["secure mail", "secure email", "private mail", "private email", "gmail alternatives"],    
+      "ads": [
+        { "text": "Secure email that protects your privacy", "tooltip": "Proton Mail" },
+        { "text": "Get encrypted Swiss email FREE", "tooltip": "Proton Mail" },
+        { "text": "Get self-destructing email service", "tooltip": "Proton Mail" },
+        { "text": "Proton Mail - Free Swiss Encrypted Email" }
+      ]
+  }}},
+  "vpn": { "active": true,
+    "adGroups": {
+      "default": { "keywords": ["vpn"],   
+        "destinationURL": "https://go.getproton.me/SHpg",
+        "ads": [
+          { "text": "Free VPN to protect your privacy", "tooltip": "Proton VPN" },
+          { "text": "VPN w/ advanced anti-censorship features", "tooltip": "Proton VPN" },
+          { "text": "Protect your privacy w/ free Swiss VPN", "tooltip": "Proton VPN" }
+      ]},
+      "android": { "targetOSes": ["android"], "keywords": ["vpn", "android vpn"],   
+        "destinationURL": "https://go.getproton.me/SHph",
+        "ads": [
+          { "text": "Trusted and free VPN for Android", "tooltip": "Proton VPN" },
+          { "text": "Proton VPN — the only free VPN for Android w/ no ads, logs, or speed limits" }
+      ]},
+      "chromeOS": { "targetOSes": ["chromeOS"], "keywords": ["vpn", "chrome vpn", "chromebook vpn"],   
+        "destinationURL": "https://go.getproton.me/SHpi",
+        "ads": [
+          { "text": "Free, unlimited VPN for Chrome OS", "tooltip": "Proton VPN" },
+          { "text": "Proton VPN — the only free VPN for Chromebooks w/ no ads, logs, or speed limits" }
+      ]},
+      "hideIP": { "keywords": ["vpn", "hide ip", "hide my ip", "ip privacy"],   
+        "destinationURL": "https://go.getproton.me/SHpq",
+        "ads": [
+          { "text": "Hide your IP address & protect your privacy", "tooltip": "Proton VPN" },
+          { "text": "Proton VPN — hide your IP from advertisers, hackers & government agencies" }
+      ]},
+      "iOS": { "targetOSes": ["iOS"], "keywords": ["vpn", "ios vpn", "iphone vpn", "ipad vpn"],   
+        "destinationURL": "https://go.getproton.me/SHpl",
+        "ads": [
+          { "text": "Free, unlimited VPN for iOS", "tooltip": "Proton VPN" },
+          { "text": "Proton VPN — defeat censorship on iPhone & iPad" }
+      ]},
+      "linux": { "targetOSes": ["linux"], "keywords": ["vpn", "linux vpn"],   
+        "destinationURL": "https://go.getproton.me/SHpj",
+        "ads": [
+          { "text": "Free, unlimited VPN for Linux", "tooltip": "Proton VPN" },
+          { "text": "Proton VPN — a free, open-source VPN w/ no limits & no privacy-invading ads" }
+      ]},
+      "macOS": { "targetOSes": ["macOS"], "keywords": ["vpn", "mac vpn", "macos vpn"],   
+        "destinationURL": "https://go.getproton.me/SHpk",
+        "ads": [
+          { "text": "Free unlimited VPN for Mac", "tooltip": "Proton VPN" },
+          { "text": "Proton VPN — an easy-to-use VPN app that's open source, unlimited & free" }
+      ]},
+      "netflix": { "keywords": ["vpn", "netflix"],   
+        "destinationURL": "https://go.getproton.me/SHpo",
+        "ads": [
+          { "text": "High-speed Netflix VPN", "tooltip": "Proton VPN" },
+          { "text": "Proton VPN — Watch your fav Netflix shows while traveling abroad" }
+      ]},
+      "swiss": { "keywords": ["vpn", "swiss privacy", "swiss security"],   
+        "destinationURL": "https://go.getproton.me/SHpp",
+        "ads": [
+          { "text": "Swiss legal protection, no matter where you are", "tooltip": "Proton VPN" },
+          { "text": "Proton VPN — based in Switzerland, giving protection of world’s strongest privacy laws" }
+      ]},
+      "windows": { "targetOSes": ["windows"],
+        "keywords": ["vpn", "windows vpn", "windows 7 vpn", "windows 8 vpn", "windows 10 vpn", "windows 11 vpn"],
+        "destinationURL": "https://go.getproton.me/SHpn",
+        "ads": [
+          { "text": "Free VPN download for Windows", "tooltip": "Proton VPN" },
+          { "text": "Proton VPN — the free, unlimited VPN you can trust for Windows 7, 8, 10, and 11" }
+      ]}
+    }}
+}
