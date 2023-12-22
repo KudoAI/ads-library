@@ -15,7 +15,7 @@
           { "text": "Get a ChatGPT VPN" }, { "text": "Get ChatGPT VPN" },
           { "text": "Keeep ChatGPT connection private & secure" }
       ]},
-      "chromecast": { "keywords": ["vpn", "chromecast"],
+      "chromecast": { "keywords": ["vpn", "chromecast vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1645691/16063",
         "ads": [
           { "text": "Download the best VPN for Google Chromecast" },
@@ -28,14 +28,14 @@
           { "text": "Stream Crunchyroll w/ a VPN - 3 mo. FREE", "tooltip": "Claim deal" }
       ]},
       "edge": { "targetBrowsers": ["edge"],
-        "keywords": ["vpn", "edge", "edge vpn", "edge extensions", "edge add-ons"],
+        "keywords": ["vpn", "edge vpn", "edge extensions", "edge add-ons"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1643472/16063",
         "ads": [
           { "text": "The best VPN extension for Microsoft Edge" },
           { "text": "Safeguard your online activity w/ a Microsoft Edge VPN extension" }
       ]},
       "firefox": { "targetBrowsers": ["firefox"],
-        "keywords": ["vpn", "firefox", "firefox vpn", "firefox extensions", "firefox add-ons"],
+        "keywords": ["vpn", "firefox vpn", "ff vpn", "firefox extensions", "firefox add-ons"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1635285/16063",
         "ads": [
           { "text": "Get the best VPN extension for Firefox" },
@@ -49,7 +49,7 @@
           { "text": "Reclaim your anonymity with the #1 VPN" },
           { "text": "Reclaim your anonymity with the #1 VPN - 49% OFF", "tooltip": "Claim deal" }
       ]},
-      "ios": { "targetOSes": ["iOS"], "keywords": ["vpn", "ios"],
+      "ios": { "targetOSes": ["iOS"], "keywords": ["vpn", "ios vpn", "iphone vpn", "ipad vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1462862/16063",
         "ads": [
           { "text": "Get the #1 VPN for iOS" },
@@ -69,7 +69,7 @@
           { "text": "Express password manager, 49% off", "tooltip": "Claim deal" }
       ]},
       "linux": { "targetOSes": ["linux"],
-        "keywords": ["vpn", "linux", "ubuntu", "debian", "fedora", "raspberry pi", "linux mint", "arch"],
+        "keywords": ["vpn", "linux vpn", "ubuntu vpn", "debian vpn", "fedora vpn", "raspberry pi vpn", "linux mint vpn", "arch vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1481133/16063",
         "ads": [
           { "text": "Get the #1 VPN for Linux" },
@@ -81,7 +81,7 @@
           { "text": "Play League of Legends with a VPN" },
           { "text": "Play League of Legends with a VPN - 3 mo. FREE", "tooltip": "Claim deal" }
       ]},
-      "macos": { "targetOSes": ["macOS"], "keywords": ["vpn", "macos"],
+      "macos": { "targetOSes": ["macOS"], "keywords": ["vpn", "mac vpn", "macos vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1462859/16063",
         "ads": [
           { "text": "Get the #1 VPN for Mac" },
@@ -97,7 +97,8 @@
         "destinationURL": "https://go.expressvpn.com/c/5024278/1481114/16063",
         "ads": [{ "text": "Unblock Spotify: Listen anywhere with a VPN" }]
       },
-      "windows": { "targetOSes": ["windows"], "keywords": ["vpn", "windows"],
+      "windows": { "targetOSes": ["windows"],
+        "keywords": ["vpn", "windows vpn", "windows 7 vpn", "windows 8 vpn", "windows 10 vpn", "windows 11 vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1462858/16063",
         "ads": [
           { "text": "Get the #1 VPN for Windows" },
