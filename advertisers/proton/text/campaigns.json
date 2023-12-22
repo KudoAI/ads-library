@@ -29,7 +29,7 @@
           { "text": "Free, unlimited VPN for Chrome OS", "tooltip": "Proton VPN" },
           { "text": "Proton VPN — the only free VPN for Chromebooks w/ no ads, logs, or speed limits" }
       ]},
-      "hideIP": { "keywords": ["vpn", "hide ip", "hide my ip", "ip privacy"],   
+      "hideIP": { "keywords": ["vpn", "hide ip", "hide my ip", "anonymize ip", "ip privacy"],   
         "destinationURL": "https://go.getproton.me/SHpq",
         "ads": [
           { "text": "Hide your IP address & protect your privacy", "tooltip": "Proton VPN" },
