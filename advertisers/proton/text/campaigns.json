@@ -41,7 +41,8 @@
           { "text": "Free, unlimited VPN for iOS", "tooltip": "Proton VPN" },
           { "text": "Proton VPN — defeat censorship on iPhone & iPad" }
       ]},
-      "linux": { "targetOSes": ["linux"], "keywords": ["vpn", "linux vpn"],   
+      "linux": { "targetOSes": ["linux"],
+        "keywords": ["vpn", "linux vpn", "ubuntu vpn", "debian vpn", "fedora vpn", "raspberry pi vpn", "linux mint vpn", "arch vpn"],
         "destinationURL": "https://go.getproton.me/SHpj",
         "ads": [
           { "text": "Free, unlimited VPN for Linux", "tooltip": "Proton VPN" },
