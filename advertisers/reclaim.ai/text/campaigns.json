@@ -1,5 +1,5 @@
 {
-  "searchGPT": {
+  "main": {
     "active": true, "destinationURL": "https://go.reclaim.ai/40uhfbt8fj2u-qsys18",
     "adGroups": { "default": {
       "keywords": ["ai", "scheduling", "calendar", "google", "google calendar", "ai scheduling", "ai calendar"],
