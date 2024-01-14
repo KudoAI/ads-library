@@ -1,0 +1,12 @@
+{
+  "main": {
+    "active": true, "destinationURL": "https://try.elevenlabs.io/ff5ymgbceixk",
+    "adGroups": { "default": {
+      "keywords": ["generative voice ai", "gen voice ai", "ai tts", "genai tts"],
+      "ads": [
+        { "text": "Convert text to speech online for free w/ AI", "tooltip": "Get started" },
+        { "text": "Free Generative Voice AI", "tooltip": "Get started" },
+        { "text": "Create natural AI voices in any language", "tooltip": "Get started" },
+        { "text": "Generate text to speech using AI", "tooltip": "Get started" }
+  ]}}}
+}
