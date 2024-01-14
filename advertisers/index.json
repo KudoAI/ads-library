@@ -4,6 +4,7 @@
   "amazon": { "campaigns": { "text": false }},
   "codacy": { "boost": 15, "campaigns": { "text": true }},
   "digitalocean": { "campaigns": { "text": true }},
+  "elevenlabs": { "campaigns": { "text": true }},
   "expressvpn": { "campaigns": { "text": true }},
   "kudoai": { "boost": 54, "campaigns": { "text": true }},
   "proton": { "campaigns": { "text": true }},
