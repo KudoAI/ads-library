@@ -2,7 +2,7 @@
   "accelerantresearch": { "campaigns": { "text": false }},
   "adamlui": { "campaigns": { "text": true }},
   "amazon": { "campaigns": { "text": false }},
-  "codacy": { "boost": 15, "campaigns": { "text": true }},
+  "codacy": { "campaigns": { "text": false }},
   "digitalocean": { "campaigns": { "text": true }},
   "elevenlabs": { "campaigns": { "text": true }},
   "expressvpn": { "campaigns": { "text": true }},
