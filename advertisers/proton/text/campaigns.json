@@ -8,6 +8,15 @@
         { "text": "Proton Mail - Free Swiss Encrypted Email" }
       ]
   }}},
+  "pass": { "active": true, "destinationURL": "https://go.getproton.me/SH12N",
+    "adGroups": { "default": { "keywords": ["password manager", "secure password", "identity protection", "easy sign-in", "login manager"],    
+      "ads": [
+        { "text": "Easily create unique and secure passwords", "tooltip": "Proton Pass" },
+        { "text": "Sync login across unlimited devices", "tooltip": "Proton Pass" },
+        { "text": "Enhance security with 2FA login manager", "tooltip": "Proton Pass" },
+        { "text": "Proton Pass - Fast, secure login on any device for $2/mo" }
+      ]
+  }}},
   "vpn": { "active": true,
     "adGroups": {
       "default": { "keywords": ["vpn"],   
