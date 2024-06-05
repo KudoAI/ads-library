@@ -12,7 +12,7 @@
       "default": {
         "keywords": ["brave browser", "brave search", "search", "gpt", "privacy", "chatbot", "brave leo", "brave ai"],
         "destinationURL": "https://gf.bravegpt.com",
-        "ads": [{ "text": "Get BraveGPT!" }, { "text": "Get GPT-4 for Brave..." }]
+        "ads": [{ "text": "Get BraveGPT!" }, { "text": "Get GPT-4o for Brave..." }]
       },
       "self": { "ads": [
         { "text": "Share Feedback", "destinationURL": "https://github.com/kudoai/bravegpt/discussions/new/choose" },
@@ -34,7 +34,7 @@
       "default": {
         "keywords": ["duckduckgo", "ddg", "search", "gpt", "privacy", "chatbot"],
         "destinationURL": "https://gf.duckduckgpt.com",
-        "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "Get GPT-4 for DuckDuckGo..." }]
+        "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "Get GPT-4o for DuckDuckGo..." }]
       },
       "self": { "ads": [
         { "text": "Share Feedback", "destinationURL": "https://github.com/kudoai/duckduckgpt/discussions/new/choose" },
@@ -50,7 +50,7 @@
       "default": {
         "keywords": ["google", "search", "gpt", "chatbot"],
         "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt",
-        "ads": [{ "text": "Get GoogleGPT!" }, { "text": "Get GPT-4 for Google..." }]
+        "ads": [{ "text": "Get GoogleGPT!" }, { "text": "Get GPT-4o for Google..." }]
       },
       "self": { "ads": [
         { "text": "Share Feedback", "destinationURL": "https://github.com/kudoai/googlegpt/discussions/new/choose" },
