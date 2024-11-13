@@ -20,7 +20,7 @@ export default [
         languageOptions: { ecmaVersion: 'latest', sourceType: 'script' }
     },
     { files: ['**/*.mjs'], languageOptions: { sourceType: 'module' }},
-    { files: ['**/*.json'], ...json.configs['recommended'] },
+    { files: ['**/*.json'], ignores: ['**/package-lock.json'], language: 'json/json', ...json.configs.recommended },
     {
         files: ['**/*.md'], language: 'markdown/commonmark', plugins: { markdown },
         rules: {
