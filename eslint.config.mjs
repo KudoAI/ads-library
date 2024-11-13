@@ -1,5 +1,5 @@
 import js from '@eslint/js'
-import json from 'eslint-plugin-json'
+import json from '@eslint/json'
 
 export default [
     {
