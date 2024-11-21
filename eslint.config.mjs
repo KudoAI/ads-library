@@ -1,4 +1,3 @@
-import js from '@eslint/js'
 import json from '@eslint/json'
 import markdown from '@eslint/markdown'
 import eslintPluginYml from 'eslint-plugin-yml'
