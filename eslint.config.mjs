@@ -4,12 +4,13 @@ import markdown from '@eslint/markdown'
 import yml from 'eslint-plugin-yml'
 
 export default [
+    { ignores: ['**/package-lock.json'] },
     {
         files: ['**/*.js', '**/*.mjs'],
         plugins: { 'import': importPlugin },
         rules: { ...importPlugin.flatConfigs.recommended.rules }
     },
-    { files: ['**/*.json'], ignores: ['**/package-lock.json'], language: 'json/json', ...json.configs.recommended },
+    { files: ['**/*.json'], language: 'json/json', ...json.configs.recommended },
     {
         files: ['**/*.md'], language: 'markdown/commonmark', plugins: { markdown },
         rules: {
