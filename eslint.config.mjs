@@ -6,7 +6,7 @@ import yml from 'eslint-plugin-yml'
 export default [
     { ignores: ['**/package-lock.json'] },
     {
-        files: ['**/*.js', '**/*.mjs'],
+        files: ['**/*.{js,mjs}'],
         plugins: { 'import': importPlugin },
         rules: { ...importPlugin.flatConfigs.recommended.rules }
     },
@@ -20,5 +20,5 @@ export default [
             'markdown/no-missing-label-refs': 'off' // allow missing label references
         }
     },
-    { files: ['**/*.yaml, **/*.yml'], ...yml.configs['flat/standard'][1] }
+    { files: ['**/*.{yaml,yml}'], ...yml.configs['flat/standard'][1] }
 ]
