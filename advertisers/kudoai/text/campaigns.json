@@ -11,7 +11,7 @@
     "adGroups": {
       "default": {
         "keywords": ["brave browser", "brave search", "search", "gpt", "privacy", "chatbot", "brave leo", "brave ai"],
-        "destinationURL": "https://gf.bravegpt.com",
+        "destinationURL": "https://gm.bravegpt.com",
         "ads": [{ "text": "Get BraveGPT!" }, { "text": "Get GPT-4o for Brave..." }, { "text": "Get BraveGPT by KudoAI" }]
       },
       "self": { "ads": [
@@ -33,7 +33,7 @@
     "adGroups": {
       "default": {
         "keywords": ["duckduckgo", "ddg", "search", "gpt", "privacy", "chatbot"],
-        "destinationURL": "https://gf.duckduckgpt.com",
+        "destinationURL": "https://gm.duckduckgpt.com",
         "ads": [{ "text": "Get DuckDuckGPT!" }, { "text": "Get GPT-4o for DuckDuckGo..." }, { "text": "Get DuckDuckGPT by KudoAI" }]
       },
       "self": { "ads": [
