@@ -10,5 +10,5 @@
   "proton": { "campaigns": { "text": true }},
   "reclaim.ai": { "campaigns": { "text": true }},
   "sofi": { "campaigns": { "text": true }},
-  "surfshark": { "campaigns": { "text": true }}
+  "surfshark": { "campaigns": { "text": false }}
 }
