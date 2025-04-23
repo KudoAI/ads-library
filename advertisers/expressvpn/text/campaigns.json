@@ -119,49 +119,49 @@
       "in": { "targetLocations": ["in"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1634814/16063",
         "ads": [
-          { "text": "Best VPN for India" },
-          { "text": "India VPN w/ best-in-class encryption" }
+          { "text": "भारत के लिए सर्वश्रेष्ठ वीपीएन" },
+          { "text": "भारत VPN सर्वश्रेष्ठ एन्क्रिप्शन के साथ" }
       ]},
       "ja": { "targetLocations": ["jp"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1481164/16063",
         "ads": [
-          { "text": "The best VPN for Japan" },
-          { "text": "Browse privately w/ a VPN + Japan IP address" }
+          { "text": "日本に最適な VPN" },
+          { "text": "VPN + 日本 IP アドレスでプライベートにブラウジング" }
       ]},
       "kr": { "targetLocations": ["kr"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1643237/16063",
         "ads": [
-          { "text": "Best VPN for South Korea" },
-          { "text": "Get high-speed VPN servers in South Korea" }
+          { "text": "한국 최고의 VPN" },
+          { "text": "한국에서 고속 VPN 서버를 받으세요" }
       ]},
       "pk": { "targetLocations": ["pk"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1643333/16063",
         "ads": [
-          { "text": "Best VPN for Pakistan" },
-          { "text": "Browse privately w/ a VPN + Pakistan IP address" }
+          { "text": "پاکستان کے لیے بہترین وی پی این" },
+          { "text": "وی پی این + پاکستان آئی پی ایڈریس کے ساتھ نجی طور پر براؤز کریں۔" }
       ]},
       "zh": { "targetLocations": ["cn", "zh"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1481143/16063",
         "ads": [
-          { "text": "The Best VPN for China" },
-          { "text": "Browse privately w/ a VPN + Chinese IP address" }
+          { "text": "适用于中国的最佳 VPN" },
+          { "text": "使用 VPN + 中国 IP 地址进行私密浏览" }
       ]},
       "zh-HK": { "targetLocations": ["hk"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1481143/16063",
         "ads": [
-          { "text": "The Best VPN for Hong Kong" },
-          { "text": "Browse privately w/ a VPN + Hong Kong IP address" }
+          { "text": "香港最佳 VPN" },
+          { "text": "使用 VPN + 香港 IP 位址進行私密瀏覽" }
       ]},
       "zh-SG": { "targetLocations": ["sg"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1643254/16063",
         "ads": [
-          { "text": "Best Singapore VPN service" },
-          { "text": "Get a risk-free VPN for Singapore" }
+          { "text": "最佳新加坡 VPN 服务" },
+          { "text": "获取新加坡无风险的 VPN" }
       ]},
       "zh-TW": { "targetLocations": ["tw"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1643254/16063",
         "ads": [
-          { "text": "Best Taiwan VPN service" },
-          { "text": "Get a risk-free VPN for Taiwan" }
+          { "text": "最佳台灣 VPN 服務" },
+          { "text": "取得適用於台灣的無風險 VPN" }
       ]}
 }}}
