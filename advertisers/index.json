@@ -6,6 +6,7 @@
   "digitalocean": { "campaigns": { "text": true }},
   "elevenlabs": { "campaigns": { "text": false }},
   "expressvpn": { "campaigns": { "text": true }},
+  "iproyal": { "campaigns": { "text": true }},
   "kudoai": { "boost": 54, "campaigns": { "text": true }},
   "proton": { "campaigns": { "text": true }},
   "reclaim.ai": { "campaigns": { "text": true }},

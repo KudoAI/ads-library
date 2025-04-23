@@ -1,0 +1,24 @@
+{
+  "main": { "active": true,
+    "adGroups": {
+      "en": { "targetLocations": ["en"], "keywords": ["proxy", "proxies"],
+        "destinationURL": "https://iproyal.com/?r=855573",
+        "ads": [{ "text": "Premium Quality Proxies at Unbeatable Prices" }]
+      },
+      "zh": { "targetLocations": ["cn", "zh"], "keywords": ["proxy", "proxies"],
+        "destinationURL": "https://iproyal.cn/?r=855573",
+        "ads": [{ "text": "价格无可比拟的优质代理" }]
+      },
+      "zh-HK": { "targetLocations": ["hk"], "keywords": ["proxy", "proxies"],
+        "destinationURL": "https://iproyal.cn/?r=855573",
+        "ads": [{ "text": "價格無可比擬的優質代理" }]
+      },
+      "zh-SG": { "targetLocations": ["sg"], "keywords": ["proxy", "proxies"],
+        "destinationURL": "https://iproyal.cn/?r=855573",
+        "ads": [{ "text": "价格无可比拟的优质代理" }]
+      },
+      "zh-TW": { "targetLocations": ["tw"], "keywords": ["proxy", "proxies"],
+        "destinationURL": "https://iproyal.cn/?r=855573",
+        "ads": [{ "text": "價格無可比擬的優質代理" }]
+      }
+}}}
