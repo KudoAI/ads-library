@@ -140,11 +140,23 @@
           { "text": "Best VPN for Pakistan" },
           { "text": "Browse privately w/ a VPN + Pakistan IP address" }
       ]},
+      "zh": { "targetLocations": ["cn", "zh"], "keywords": ["vpn"],
+        "destinationURL": "https://go.expressvpn.com/c/5024278/1481143/16063",
+        "ads": [
+          { "text": "The Best VPN for China" },
+          { "text": "Browse privately w/ a VPN + Chinese IP address" }
+      ]},
       "zh-HK": { "targetLocations": ["hk"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1481143/16063",
         "ads": [
           { "text": "The Best VPN for Hong Kong" },
           { "text": "Browse privately w/ a VPN + Hong Kong IP address" }
+      ]},
+      "zh-SG": { "targetLocations": ["sg"], "keywords": ["vpn"],
+        "destinationURL": "https://go.expressvpn.com/c/5024278/1643254/16063",
+        "ads": [
+          { "text": "Best Singapore VPN service" },
+          { "text": "Get a risk-free VPN for Singapore" }
       ]},
       "zh-TW": { "targetLocations": ["tw"], "keywords": ["vpn"],
         "destinationURL": "https://go.expressvpn.com/c/5024278/1643254/16063",
