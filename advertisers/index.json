@@ -1,5 +1,5 @@
 {
-  "accelerantresearch": { "campaigns": { "text": false }},
+  "accelerantresearch": { "campaigns": { "text": true }},
   "adamlui": { "campaigns": { "text": true }},
   "amazon": { "campaigns": { "text": false }},
   "codacy": { "campaigns": { "text": false }},
