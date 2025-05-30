@@ -6,5 +6,11 @@
         { "text": "$250 focus group for NY/LA area", "tooltip": "Take screener" },
         { "text": "Live in NY or LA? $250 focus group", "tooltip": "Take screener" },
         { "text": "Live in NY or LA? $250 research study", "tooltip": "Take screener" }
+  ]}}},
+  "25-054": {
+    "active": true, "destinationURL": "https://surveys.accelerantresearch.com/s3/5a7c249ba819",
+    "adGroups": { "default": { "ads": [
+        { "text": "$300 for interview", "tooltip": "Take screener" },
+        { "text": "$300 research study", "tooltip": "Take screener" }
   ]}}}
 }
