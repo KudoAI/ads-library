@@ -10,7 +10,9 @@ export default [
         plugins: { 'import': importPlugin },
         rules: {
             ...importPlugin.flatConfigs.recommended.rules,
-            'import/no-named-as-default-member': 'off' // allow accessing named exports via default import
+            'import/no-named-as-default-member': 'off', // allow accessing named exports via default import
+            'import/no-unresolved': ['error', { ignore: ['^(?:https?://)'] }] // allow dynamic imports from URLs...
+                // ...maintainer refuses to support (https://github.com/import-js/eslint-plugin-import/issues/3118)
         }
     },
     { files: ['**/*.json'], language: 'json/json', ...json.configs.recommended },
