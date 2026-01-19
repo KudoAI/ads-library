@@ -8,7 +8,10 @@ export default [
     {
         files: ['**/*.{js,mjs}'],
         plugins: { 'import': importPlugin },
-        rules: { ...importPlugin.flatConfigs.recommended.rules }
+        rules: {
+            ...importPlugin.flatConfigs.recommended.rules,
+            'import/no-named-as-default-member': 'off' // allow accessing named exports via default import
+        }
     },
     { files: ['**/*.json'], language: 'json/json', ...json.configs.recommended },
     {
