@@ -1,7 +1,6 @@
 import json from '@eslint/json'
 import importPlugin from 'eslint-plugin-import'
 import markdown from '@eslint/markdown'
-import yml from 'eslint-plugin-yml'
 
 export default [
     { ignores: ['**/package-lock.json'] },
@@ -26,6 +25,5 @@ export default [
             'markdown/no-multiple-h1': 'off', // allow multi H1s
             'markdown/require-alt-text': 'off' // allow missing img alts
         }
-    },
-    { files: ['**/*.{yaml,yml}'], ...yml.configs['flat/standard'][1] }
+    }
 ]
