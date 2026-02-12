@@ -8,9 +8,9 @@
     "lint:fix-all": "eslint . --fix"
   },
   "devDependencies": {
-    "@eslint/json": "^1.0.0",
+    "@eslint/json": "^1.0.1",
     "@eslint/markdown": "^7.5.1",
-    "eslint": "^9.39.2",
+    "eslint": "^10.0.0",
     "eslint-plugin-import": "^2.32.0",
     "husky": "^9.1.7"
   }
