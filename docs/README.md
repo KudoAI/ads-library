@@ -7,7 +7,7 @@
 <a href="https://www.jsdelivr.com/package/gh/KudoAI/ads-library?tab=stats">
   <img src="https://img.shields.io/jsdelivr/gh/hm/KudoAI/ads-library?style=for-the-badge&logo=jsdelivr&logoColor=white&label=jsDelivr%20Requests&labelColor=464646&color=2bbbd8"></a>
 <a href="mailto:ads@kudoai.com">
-    <img alt="[ads@kudoai.com]" height=31 src="https://img.shields.io/badge/Advertise-ads@kudoai.com-lightgrey?logo=awesomelists&logoColor=white&labelColor=464646&style=for-the-badge"></a>
+    <img alt="[ads@kudoai.com]" height=31 src="https://img.shields.io/badge/Advertise-ads@kudoai.com-lightgrey?logo=fandom&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 
 <hr>
 
