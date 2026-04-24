@@ -9,7 +9,7 @@
 
 <hr>
 
-To reach users on the KudoAI Advertising Network, e-mail <ads@kudoai.com>.
+To reach users on the KudoAI Advertising Network, please contact <ads@kudoai.com>.
 
 <!-- FOOTER -->
 
