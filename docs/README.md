@@ -11,7 +11,7 @@
 
 <hr>
 
-To reach users in the KudoAI Advertising Network, please contact [<img height=12 width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@61d58d0/assets/images/icons/email/gray/icon64x50.jpg">](mailto:ads@kudoai.com) **<ads@kudoai.com>** or start a [<img height=13.5  width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@61d58d0/assets/images/icons/speech-bubble/gray/icon64x57.png">][ads-discuss] [**discussion**][ads-discuss].
+To reach users within the KudoAI Advertising Network, please contact [<img height=12 width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@61d58d0/assets/images/icons/email/gray/icon64x50.jpg">](mailto:ads@kudoai.com) **<ads@kudoai.com>** or start a [<img height=13.5  width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@61d58d0/assets/images/icons/speech-bubble/gray/icon64x57.png">][ads-discuss] [**discussion**][ads-discuss].
 
 [ads-discuss]: https://github.com/KudoAI/ads-library/discussions/new?category=partnerships
 
