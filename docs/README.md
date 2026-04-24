@@ -21,7 +21,7 @@
 
 <hr>
 
-<a href="https://github.com/KudoAI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/KudoAI/kudoai.com@255f8fd/assets/images/icons/kudoai/white-on-black/icon400.png"></picture><img height=21 width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/kudoai.com@255f8fd/assets/images/icons/kudoai/black-on-white/icon400.png"><b>KudoAI</b></a> /
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/adamlui/js-utils@3ff8817/assets/images/icons/home/white/icon32x27.png"><img height=13 src="https://cdn.jsdelivr.net/gh/adamlui/js-utils@3ff8817/assets/images/icons/home/dark-gray/icon32x27.png"></picture> <a href=https://github.com/KudoAI>**KudoAI**</a> /
 <a href="https://github.com/KudoAI/ads-library/discussions">Discuss</a> /
 <a href="mailto:github@kudoai.com">Contact maintainers</a> /
 <a href="mailto:ads@kudoai.com">Advertise</a>
