@@ -15,7 +15,7 @@
 
 <hr>
 
-To serve ads to users in the KudoAI Advertising Network, please contact [<img height=12 width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@61d58d0/assets/images/icons/email/gray/icon64x50.jpg">](mailto:ads@kudoai.com) **<ads@kudoai.com>**, start a [<img height=13.5  width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@61d58d0/assets/images/icons/speech-bubble/gray/icon64x57.png">][ads-discuss] [**discussion**][ads-discuss], or call <img height=13.5  width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@89a7923/assets/images/icons/phone/gray/icon64.png">**+1-415-894-0301**.
+To serve ads to users in the KudoAI Advertising Network,<br>please contact [<img height=12 width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@61d58d0/assets/images/icons/email/gray/icon64x50.jpg">](mailto:ads@kudoai.com) **<ads@kudoai.com>**, start a [<img height=13.5  width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@61d58d0/assets/images/icons/speech-bubble/gray/icon64x57.png">][ads-discuss] [**discussion**][ads-discuss], or call <img height=13.5  width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/ads-library@89a7923/assets/images/icons/phone/gray/icon64.png">**+1-415-894-0301**.
 
 [ads-discuss]: https://github.com/KudoAI/ads-library/discussions/new?category=partnerships
 
