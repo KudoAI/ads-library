@@ -25,7 +25,7 @@ To serve ads in the KudoAI Advertising Network:<br><br>email [<img height=12 wid
 
 <a href="https://github.com/KudoAI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/KudoAI/kudoai.com@255f8fd/assets/images/icons/kudoai/white-on-black/icon400.png"></picture><img height=21 width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/kudoai.com@255f8fd/assets/images/icons/kudoai/black-on-white/icon400.png"><b>KudoAI</b></a> /
 <a href="https://github.com/KudoAI/ads-library/discussions">Discuss</a> /
-<a href="mailto:maintainers@kudoai.com">Contact maintainers</a> /
+<a href="mailto:github@kudoai.com">Contact maintainers</a> /
 <a href="mailto:ads@kudoai.com">Advertise</a>
 
 </div>
