@@ -9,7 +9,7 @@
 
 <hr>
 
-To reach users in the KudoAI Advertising Network, please contact **<ads@kudoai.com>**.
+To reach users in the KudoAI Advertising Network, please contact **<ads@kudoai.com>** or start a **[discussion](https://github.com/KudoAI/ads-library/discussions/new?category=partnerships)**.
 
 <!-- FOOTER -->
 
