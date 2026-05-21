@@ -1,17 +1,18 @@
+
+import globals from 'globals'
 import json from '@eslint/json'
-import importPlugin from 'eslint-plugin-import'
+import importPlugin from 'eslint-plugin-import-x'
 import markdown from '@eslint/markdown'
 
 export default [
     { ignores: ['**/package-lock.json'] },
     {
         files: ['**/*.{js,mjs}'],
-        plugins: { 'import': importPlugin },
+        plugins: { 'import-x': importPlugin },
         rules: {
             ...importPlugin.flatConfigs.recommended.rules,
-            'import/no-named-as-default-member': 'off', // allow accessing named exports via default import
-            'import/no-unresolved': ['error', { ignore: ['^(?:https?://)'] }] // allow dynamic imports from URLs...
-                // ...maintainer refuses to support (https://github.com/import-js/eslint-plugin-import/issues/3118)
+            'import-x/no-named-as-default-member': 'off', // allow accessing named exports via default import
+            'import-x/no-unresolved': ['error', { ignore: ['^(?:https?://)'] }] // allow dynamic imports from URLs
         }
     },
     { files: ['**/*.json'], language: 'json/json', ...json.configs.recommended },
