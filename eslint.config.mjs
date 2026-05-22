@@ -1,5 +1,4 @@
 
-import globals from 'globals'
 import json from '@eslint/json'
 import importPlugin from 'eslint-plugin-import-x'
 import markdown from '@eslint/markdown'
