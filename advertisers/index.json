@@ -1,7 +1,5 @@
 {
-  "accelerantresearch": { "campaigns": { "text": true }},
   "adamlui": { "campaigns": { "text": true }},
-  "digitalocean": { "campaigns": { "text": true }},
   "expressvpn": { "campaigns": { "text": true }},
   "iproyal": { "campaigns": { "text": true }},
   "kudoai": { "boost": 54, "campaigns": { "text": true }},
