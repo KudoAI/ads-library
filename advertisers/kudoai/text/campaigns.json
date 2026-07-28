@@ -46,6 +46,7 @@
   }},
   "googleGPT": {
     "active": true, "destinationURL": "https://googlegpt.kudoai.com",
+    "excludedApps": ["duckduckgpt"],
     "adGroups": {
       "default": {
         "keywords": ["google", "search", "gpt", "chatbot"],
