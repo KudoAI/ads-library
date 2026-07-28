@@ -1,5 +1,21 @@
 {
+  "name": "@kudoai/ads-library",
+  "private": true,
+  "description": "KudoAI ads library",
+  "author": {
+    "name": "KudoAI",
+    "email": "ads@kudoai.com",
+    "url": "https://kudoai.com"
+  },
   "homepage": "https://github.com/KudoAI/ads-library/#readme",
+  "bugs": {
+    "url": "https://github.com/KudoAI/ads-library/issues",
+    "email": "adam@kudoai.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KudoAI/ads-library.git"
+  },
   "scripts": {
     "prepare": "husky",
     "lint": "eslint . --cache",
