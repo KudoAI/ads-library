@@ -5,8 +5,8 @@
     "adGroups": { "default": { "ads": [
       { "text": "Your Ad Here" }, { "text": "Show your ad here" }, { "text": "Display your ad here" },
       { "text": "Promote your app here!" }, { "text": "Show your link here!" }, { "text": "Put your text here!" }
-    ]
-  }}},
+    ]}}
+  },
   "braveGPT": {
     "active": true,
     "destinationURL": "https://bravegpt.com",
@@ -23,14 +23,16 @@
         { "text": "Leave a review", "destinationURL": "https://www.futurepedia.io/tool/bravegpt#bravegpt-review" },
         { "text": "Leave a review", "destinationURL": "https://alternativeto.net/software/bravegpt/about/" }
       ]}
-  }},
+    }
+  },
   "chatgpt.js": {
     "active": true,
     "destinationURL": "https://chatgpt.js.org",
     "adGroups": { "default": {
       "keywords": ["javascript", "js", "chatgpt", "ai library", "chatgpt library"],
       "ads": [{ "text": "Powered by chatgpt.js" }]
-  }}},
+    }}
+  },
   "duckDuckGPT": {
     "active": true,
     "destinationURL": "https://duckduckgpt.com",
@@ -47,7 +49,8 @@
         { "text": "Leave a review", "destinationURL": "https://www.futurepedia.io/tool/duckduckgpt#duckduckgpt-review" },
         { "text": "Leave a review", "destinationURL": "https://alternativeto.net/software/duckduckgpt/about/" }
       ]}
-  }},
+    }
+  },
   "googleGPT": {
     "active": true,
     "destinationURL": "https://googlegpt.kudoai.com",
@@ -62,7 +65,8 @@
         { "text": "Share Feedback", "destinationURL": "https://github.com/kudoai/googlegpt/discussions/new/choose" },
         { "text": "Leave a review", "destinationURL": "https://greasyfork.org/scripts/478597-googlegpt/feedback#post-discussion" }
       ]}
-  }},
+    }
+  },
   "quotes": {
     "boost": 75, "active": true,
     "adGroups": {
@@ -99,5 +103,6 @@
         { "text": "Why is the man who invests all your money called a broker?" },
         { "text": "What do computers eat for a snack? Microchips." }
       ]}
-  }}
+    }
+  }
 }

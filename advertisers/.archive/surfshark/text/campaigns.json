@@ -9,7 +9,8 @@
         { "text": "Get Surfshark Antivirus 83% off + 4 mo. FREE" },
         { "text": "Surfshark Antivirus for $3.07/mo" },
         { "text": "Surfshark AV protection for $3.07/mo" }
-    ]}}
+      ]
+    }}
   },
   "incogni": {
     "active": true,
@@ -28,7 +29,8 @@
         { "text": "Bulk opt-out from data brokers who sell your info!" },
         { "text": "Bulk opt-out from data brokers who sell your info w/ 55% off Surfshark Incogni", "tooltip": "Claim deal" },
         { "text": "Bulk opt-out from data brokers who sell your info for only $6.49/mo!" }
-    ]}}
+      ]
+    }}
   },
   "vpn": {
     "active": true,
@@ -40,6 +42,7 @@
         { "text": "Surfshark VPN - Elevate your online security" },
         { "text": "Surfshark VPN - 80% OFF + up to 5 mo. FREE" },
         { "text": "Surfshark VPN - 5 months FREE" }
-    ]}}
+      ]
+    }}
   }
 }

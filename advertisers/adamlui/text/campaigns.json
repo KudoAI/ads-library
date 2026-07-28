@@ -3,8 +3,8 @@
     "active": true,
     "destinationURL": "https://github.com/adamlui/chatgpt-apps",
     "adGroups": { "default": {
-      "keywords": ["chatgpt"], "ads": [{ "text": "More ChatGPT apps..." }]
-  }}},
+      "keywords": ["chatgpt"], "ads": [{ "text": "More ChatGPT apps..." }] }}
+  },
   "chatGPTinfinity": {
     "active": true,
     "destinationURL": "https://chatgptinfinity.com",
@@ -12,19 +12,22 @@
       "keywords": ["chatgpt"],
       "destinationURL": "https://gm.chatgptinfinity.com",
       "ads": [{ "text": "Generate endless answers from all-knowing ChatGPT!", "tooltip": "Learn more" }]
-  }}},
+    }}
+  },
   "elonSucks": {
     "active": true,
     "destinationURL": "https://why.elonsucks.org",
     "adGroups": { "default": {
       "keywords": ["elon musk", "elon", "musk", "tesla", "spacex", "neuralink", "x", "twitter", "billionaire"],
       "ads": [{ "text": "Why Elon Musk sucks..." }, { "text": "Why Elon sucks..." }]
-  }}},
+    }}
+  },
   "userscripts": {
     "active": true,
     "destinationURL": "https://github.com/adamlui/userscripts",
     "adGroups": { "default": {
       "keywords": ["userscripts", "greasemonkey", "tampermonkey", "violentmonkey", "greasy fork"],
       "ads": [{ "text": "More userscripts..." }]
-  }}}
+    }}
+  }
 }
