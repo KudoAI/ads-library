@@ -1,13 +1,15 @@
 {
   "advertise": {
-    "active": true, "destinationURL": "mailto:ads@kudoai.com",
+    "active": true,
+    "destinationURL": "mailto:ads@kudoai.com",
     "adGroups": { "default": { "ads": [
       { "text": "Your Ad Here" }, { "text": "Show your ad here" }, { "text": "Display your ad here" },
       { "text": "Promote your app here!" }, { "text": "Show your link here!" }, { "text": "Put your text here!" }
     ]
   }}},
   "braveGPT": {
-    "active": true, "destinationURL": "https://bravegpt.com",
+    "active": true,
+    "destinationURL": "https://bravegpt.com",
     "adGroups": {
       "default": {
         "keywords": ["brave browser", "brave search", "search", "gpt", "privacy", "chatbot", "brave leo", "brave ai"],
@@ -23,13 +25,15 @@
       ]}
   }},
   "chatgpt.js": {
-    "active": true, "destinationURL": "https://chatgpt.js.org",
+    "active": true,
+    "destinationURL": "https://chatgpt.js.org",
     "adGroups": { "default": {
       "keywords": ["javascript", "js", "chatgpt", "ai library", "chatgpt library"],
       "ads": [{ "text": "Powered by chatgpt.js" }]
   }}},
   "duckDuckGPT": {
-    "active": true, "destinationURL": "https://duckduckgpt.com",
+    "active": true,
+    "destinationURL": "https://duckduckgpt.com",
     "adGroups": {
       "default": {
         "keywords": ["duckduckgo", "ddg", "search", "gpt", "privacy", "chatbot"],
@@ -45,7 +49,8 @@
       ]}
   }},
   "googleGPT": {
-    "active": true, "destinationURL": "https://googlegpt.kudoai.com",
+    "active": true,
+    "destinationURL": "https://googlegpt.kudoai.com",
     "excludedApps": ["duckduckgpt"],
     "adGroups": {
       "default": {
