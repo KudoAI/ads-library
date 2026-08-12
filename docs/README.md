@@ -11,8 +11,8 @@
 
 <br>
 
-<a href="mailto:ads@kudoai.com">
-    <img alt="[ads@kudoai.org]" height=31 src="https://img.shields.io/badge/Email-ads@kudoai.com-9396ED?logo=minutemailer&logoColor=white&labelColor=464646&style=for-the-badge"></a>
+<a href="mailto:ads@kudoai.org">
+    <img alt="[ads@kudoai.org]" height=31 src="https://img.shields.io/badge/Email-ads@kudoai.org-9396ED?logo=minutemailer&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 <br><br>
 
 <!-- FOOTER -->
