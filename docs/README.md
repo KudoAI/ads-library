@@ -1,3 +1,10 @@
+***
+
+> [!IMPORTANT]  
+> This repo has migrated to **<https://codeberg.org/KudoAI/ads-library>**
+
+***
+
 <div align="center">
 
 # <a href="https://github.com/KudoAI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/KudoAI/kudoai.com@255f8fd/assets/images/icons/kudoai/white-on-black/icon400.png"></picture><img height=155 width="auto" src="https://cdn.jsdelivr.net/gh/KudoAI/kudoai.com@255f8fd/assets/images/icons/kudoai/black-on-white/icon400.png"></a><br>> KudoAI / ads-library
